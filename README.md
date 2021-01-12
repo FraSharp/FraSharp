@@ -1,3 +1,6 @@
+[![FraSharp's github stats](https://github-readme-stats.vercel.app/api?username=frasharp&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 
 <!--
