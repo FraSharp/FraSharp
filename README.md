@@ -6,7 +6,9 @@
 **FraSharp/FraSharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [Telegram Bot](https://github.com/FraSharp/bot-rebase)
-- 🌱 I’m currently learning PHP, C and C++
-- 💬 Ask me about PHP
+- Working on an Android [custom kernel](https://github.com/frasharp/kernel_oneplus_sm8250)
+- 🌱 I’m currently learning PHP and C.
 - 📫 Reach me on [Telegram](https://t.me/airfraa)
+- Pronouns: she/them/he
+- Daily driver: macOS
+- 2nd daily driver: Arch Linux using a [custom kernel](https://github.com/frasharp/linux)
